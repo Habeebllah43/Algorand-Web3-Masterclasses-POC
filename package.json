@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@txnlab/use-wallet": "^4.3.1",
+    "algosdk": "^3.4.0"
+  }
+}
